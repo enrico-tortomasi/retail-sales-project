@@ -1,0 +1,6 @@
+-- LOAD CSV (via pgAdmin Import/Export Wizard)
+-- File: data_raw/superstore_sales_utf8.csv
+-- Encoding: UTF-8
+-- Delimiter: ,
+-- Header: yes
+-- Table: retail.staging_superstore
