@@ -52,7 +52,7 @@ Include:
 - Top 10 Prodotti
 
 ---
-
+```
 ## Struttura del progetto
 
 retail-sales-project/
@@ -97,7 +97,7 @@ retail-sales-project/
 │ └─ 08_create_view_v_sales_clean.sql
 │
 └─ README.md
-
+```
 ---
 
 ## Modello Dati (PostgreSQL)
