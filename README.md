@@ -52,9 +52,10 @@ Include:
 - Top 10 Prodotti
 
 ---
-```
+
 ## Struttura del progetto
 
+```
 retail-sales-project/
 │
 ├─ data-raw/
@@ -98,6 +99,7 @@ retail-sales-project/
 │
 └─ README.md
 ```
+
 ---
 
 ## Modello Dati (PostgreSQL)
