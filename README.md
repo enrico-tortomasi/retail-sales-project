@@ -1,4 +1,5 @@
 # Retail Sales Analytics – Power BI • PostgreSQL • Excel
+![Completed](https://img.shields.io/badge/Completed-✓-3CB371)
 
 Analisi completa delle vendite retail basata sul dataset Superstore, con pipeline end-to-end da Junior Data Analyst:
 
